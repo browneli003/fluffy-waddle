@@ -21,6 +21,7 @@ THEN this is added to the section of the README entitled Questions, with instruc
 WHEN I click on the links in the Table of Contents
 THEN I am taken to the corresponding section of the README
 
-##Link to video
+## Link to video
 https://drive.google.com/file/d/19y8hircjhH8lxNl6xENu6tCGgeXvGgv_/view?usp=sharing
+## README instructions
 [How to create a Professional README](./readme-guide.md)
